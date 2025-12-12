@@ -4,6 +4,7 @@
 */
 :root {
   --header-bg-image: url('../images/cover-image-dark.png');
+  --bg-color-main: #000028;
   --headline-color: #DB00FF;
   --shadow-headline-color: #FF0070;
   --color-button: #FF0070;

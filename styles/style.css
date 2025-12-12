@@ -2,14 +2,16 @@
 
 .page {
   /* сохраните в разметке и стилях класс page у тега body. Он удобен, чтобы составлять селекторы для разных цветовых тем. */
-}
-
-.header {
-  block-size: 100vh;
   background-image: var(--header-bg-image);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  background-attachment: fixed;
+  background-color: var(--bg-color-main);
+}
+
+.header {
+  block-size: 100vh;
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 1fr min-content 1fr;

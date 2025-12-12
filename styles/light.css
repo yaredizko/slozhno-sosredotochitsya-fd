@@ -10,4 +10,5 @@
     чем стили в медиазапросе предпочтений пользователя
   */
   --header-bg-image: url('../images/cover-image-light.png');
+  --bg-color-main: #fff1f7;
 }
