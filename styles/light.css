@@ -11,4 +11,13 @@
   */
   --header-bg-image: url('../images/cover-image-light.png');
   --bg-color-main: #fff1f7;
+  --headline-color: #FFC2E6;
+  --accent-color: #FF8DCB;
+  --outline-button-hover: #32312D66; 
+  --text-color: #353430;
+  --text-title-color: #353430;
+  .decorate-title {
+    display: none;
+  }
 }
+

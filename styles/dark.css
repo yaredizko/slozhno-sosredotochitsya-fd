@@ -11,4 +11,9 @@
   */
   --header-bg-image: url('../images/cover-image-dark.png');
   --bg-color-main: #000028;
+  --headline-color: #DB00FF;
+  --accent-color: #FF0070;
+  --outline-button-hover: #FF007066;
+  --text-color: #F1B2CE;
+  --text-title-color: #FF0070;
 }
