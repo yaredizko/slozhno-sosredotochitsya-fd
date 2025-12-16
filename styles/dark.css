@@ -17,4 +17,7 @@
   --text-color: #F1B2CE;
   --text-title-color: #FF0070;
   --text-subtitle-color: #000028;
+    .decorate-title {
+      display: flex;
+    }
 }
