@@ -79,7 +79,6 @@
   background-color: transparent;
   border: none;
   text-align: center;
-  outline: none;
 }
 
 .header__theme-menu-button:active {
@@ -88,6 +87,10 @@
 
 .header__theme-menu-button:hover {
   outline: 1px solid var(--outline-button-hover);
+}
+
+.header__theme-menu-button:focus {
+  outline: none;
 }
 
 .header__theme-menu-button:focus-visible {
@@ -176,6 +179,10 @@
 
 .text-link:hover {
   border-bottom: 1px solid var(--text-color);
+}
+
+.text-link:focus {
+  outline: none;
 }
 
 .text-link:focus-visible {
