@@ -113,7 +113,7 @@
   font-size: 18px;
   font-weight: bold;
   line-height: 23.4px;
-  background-color: var(--accent-color);
+  background-color: var(--text-subtitle-color);
 }
 
 .main {
@@ -272,6 +272,7 @@
 
   .section-picture {
     grid-template-columns: 1fr;
+    gap: 20px;
   }
 
   .picture {
