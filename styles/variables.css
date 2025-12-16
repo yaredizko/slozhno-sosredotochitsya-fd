@@ -12,4 +12,5 @@
   --headline-font-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
   --text-color: #F1B2CE;
   --text-title-color: #FF0070;
+  --text-subtitle-color: #000028;
 }
