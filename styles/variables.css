@@ -9,7 +9,8 @@
   --accent-color: #FF0070;
   --outline-button-hover: #FF007066;
   --decorate-border: #FF0070;
-  --headline-font-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
+  --headline-font-size-s: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
+  --headline-font-size-m: clamp(7.5rem, 0.5625rem + 14.4531vw, 9.8125rem);
   --text-color: #F1B2CE;
   --text-title-color: #FF0070;
   --text-subtitle-color: #000028;
