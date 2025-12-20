@@ -235,6 +235,11 @@
     left: 20px;
   }
  
+  .decorate-title {
+    top: 20px;
+    right: 29px;
+  }
+
   .header {
     grid-template-columns: 1fr 1fr;
   }
@@ -271,7 +276,6 @@
 
   .section-group {
     grid-column-start: 2;
-    
   }
 
   .section:nth-child(even) > .section-group {
@@ -336,7 +340,7 @@
   }
 
   .header-title {
-    margin: 0 20px 50px 70px;
+    margin: 0 20px 50px 0;
   }
 
   .section:nth-child(even) > .section-group {
